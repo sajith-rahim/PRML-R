@@ -1,3 +1,3 @@
 
-Pattern Recognition and Machine Learning (2009) - Bishop
+Pattern Recognition and Machine Learning (2009) - Christopher Bishop.
 
